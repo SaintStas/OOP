@@ -1,5 +1,3 @@
-# OOP
-OOP
 echo "# OOP" >> README.md
 git init
 git add README.md
